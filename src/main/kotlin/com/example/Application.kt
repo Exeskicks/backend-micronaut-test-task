@@ -19,6 +19,8 @@ object Application {
 		Micronaut
 			.build(*args)
 			.banner(false)
-			.start()
+		.start()
+
+
 	}
 }
